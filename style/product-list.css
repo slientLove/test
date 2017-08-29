@@ -1,0 +1,23 @@
+#content{margin: 0 auto;width: 1000px;position: relative;}
+#content .side{width: 184px;border: 1px solid #d7d7d7;margin-top: 17px;}
+.side h3{width:184px;height:34px;border:solid #d7d7d7 1px;color: #555555;font-size: 14px;text-align: center;line-height: 34px;}
+.side dl{width: 146px;border-bottom: dashed #d7d7d7 1px;padding: 0 20px 12px;}
+.side dt{height:36px;color: #555555;font-size: 12px;line-height: 36px;font-weight: bold;}
+.side dd{width: 72px;height:24px;float: left;}
+.side a{color: #555555;font-size: 12px;font-family: "微软雅黑";}
+.clear:after{content: "";display: block;clear: both;}
+
+.pic{width: 810px;height: 326px;position: absolute;top: 0;left: 190px;overflow: hidden;}
+.pic ul{width: 1622px;height: 326px;}
+.pic li{float: left;}
+.showList{position: absolute;top: 326px;left: 190px;}
+.top-list h3{width: 182px;height: 40px;font-size: 12px;color: #555555;line-height: 40px;border-bottom: solid #096dba 2px;}
+
+.top-list .listT{height: 260px;width:810px;border-top: solid #cccccc 1px;}
+.listT li{width: 196px;float: left;}
+.listT img{width: 196px;height: 176px;}
+.listT .text{width: 178px;height: 46px;font-size: 12px;line-height: 20px;font-weight: normal;font-family: "微软雅黑";}
+
+.money{color: #d4107e;padding-left:5px;padding-top: 20px;display: inline-block;}
+p.access{font-size: 12px;padding-left: 6px;padding-top: 6px;}
+.listT .access span{width: 16px;height: 12px;background: url("../img2/start.png") no-repeat;display: inline-block;}
